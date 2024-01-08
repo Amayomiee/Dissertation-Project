@@ -5,7 +5,7 @@ This repository contains the code and dataset used for my dissertation titled "E
 
 ## Dataset
 The datasets used in this study are described as follows:
-
+`scraped_data.csv`: The raw data scraped from the RA subreddit
 `final2_predictions.csv`: The results from the sentiment prediction task before evaluation
 `sampled_data_for_annotation.csv`: The sample data used for the manual annotation process comprising 360 samples
 `Duplicate Annotation data.csv`: The manually annotated data that was used to train the model
